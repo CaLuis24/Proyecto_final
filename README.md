@@ -4,4 +4,4 @@ El código está dividido en 3 partes, la primera que corresponde a las entradas
 
 La segunda parte es la de procesamiento, tomará los datos de la primera parte y los procesará. Por último la parte de salidas, esta parte utiliza streamlit y librerías relacionadas para colocar el código en la web.
 
-Para poder acceder a nuestra aplicación, seguir el siguiente enlace [link]().
+Para poder acceder a nuestra aplicación, seguir el siguiente enlace [link](https://proyecto-final-wennavarro-carlosz.streamlit.app/).
