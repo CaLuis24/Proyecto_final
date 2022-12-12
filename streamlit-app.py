@@ -22,7 +22,7 @@ st.set_page_config(layout='wide')
 st.title('Visualización de datos de biodiversidad, fuente: Infraestructura Mundial de Información en Biodiversidad (GBIF)')
 st.markdown('Esta aplicación presenta visualizaciones tabulares, gráficas y geoespaciales de datos de biodiversidad que siguen el estándar [Darwin Core (DwC)](https://dwc.tdwg.org/terms/).')
 st.markdown('El usuario debe de seleccionar y subir un archivo csv con el formato de [Infraestructura Mundial de Información en Biodiversidad (GBIF)](https://www.gbif.org/).')
-st.markdown('Proyecto final elaborado por **Wendy Navarro Abarca** y **Carlos Zúñiga Álvarez**')
+st.markdown('Proyecto final del curso GF-0657 elaborado por _**Wendy Navarro Abarca**_ y _**Carlos Zúñiga Álvarez**_')
 
 #
 # ENTRADAS ##############################################################################################################
